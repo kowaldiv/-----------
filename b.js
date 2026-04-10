@@ -1,3 +1,3 @@
 export function b() {
-  return 6;
+  return 6666;
 }
